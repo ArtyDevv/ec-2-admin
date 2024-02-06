@@ -54,7 +54,7 @@ setIsMounted(true)
                 </div>
             ))}
           </div>
-          <CldUploadWidget onUpload={onUpload} uploadPreset="vsmrl2hr">
+          <CldUploadWidget onUpload={onUpload} uploadPreset="rgtxcu4f">
                 {({open})=>{
                     const onClick=()=>{
                         open();
